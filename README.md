@@ -1,2 +1,2 @@
-# Galonin App Available on Google Play Store 
+# Galonin App
 Mini Project Flutter
