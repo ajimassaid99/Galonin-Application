@@ -1,2 +1,2 @@
 # galonin
-mini Project flutter 
+mini Project flutter
